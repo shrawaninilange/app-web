@@ -131,7 +131,7 @@ const Home = () => {
             <p className="tot">Karan Singh</p>
             <div className="bor">
               <p className="tott">
-                Vedantu has provided me a very good platform for studying from
+              Pathshala has provided me a very good platform for studying from
                 my home .{" "}
               </p>
             </div>
