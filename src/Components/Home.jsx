@@ -102,7 +102,7 @@ const Home = () => {
       </div>
 
       <div className="div1">
-      <h2 className="ourr">Students sharing their Vedantu Experience</h2> 
+      <h2 className="ourr">Students sharing their  Pathshala Experience</h2> 
         <div className="for">
           <div className="inner">
             <img
@@ -156,7 +156,7 @@ const Home = () => {
 
       <div className="div11">
         <div className="upper">
-            <h2 className="up">Get the Vedantu Advantage that you Deserve</h2>
+            <h2 className="up">Get the  Pathshala Advantage that you Deserve</h2>
             <button className="book">BOOK A FREE DEMO</button>
         </div>
         <div className="dib33">
@@ -201,7 +201,7 @@ const Home = () => {
             <p className="tot">B.Tech - Aerospace - Alliance University</p>
             <div className="bor">
               <p className="tott">
-                Vedantu has provided me a very good platform for studying from
+              Pathshala has provided me a very good platform for studying from
                 my home .{" "}
               </p>
             </div>
