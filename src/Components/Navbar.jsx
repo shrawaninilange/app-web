@@ -1,6 +1,7 @@
 import React from 'react'
 import './Navbar.css'
 const Navbar = () => {
+  // { comiit }
   return (
    <div className="nav">
     <div className="left">
